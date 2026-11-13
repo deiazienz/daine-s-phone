@@ -1032,4 +1032,4 @@ openApp.msg = () => { $("#mthr").classList.remove("on"); curT = null; rth(); };
   renderHome();
   renderDM();
   renderProfile();
-})();
+})(); 
